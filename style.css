@@ -38,3 +38,47 @@ a {
     font-size: 18px;
     text-decoration: none;
 }
+
+.hero-section {
+    background-color: #1F2937;
+    padding: 72px 10px;
+
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.hero {
+    width: 450px;
+}
+
+.hero-title {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero-text {
+    color: #E5E7EB;
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.hero-section button {
+    background-color: #3882f6;
+    color: #ffffff;
+    font-weight: 700;
+    border: 0;
+    border-radius: 5px;
+    padding: 5px 32px;
+}
+
+.hero-image {
+    background-color: lightgray;
+    width: 500px;
+    height: 220px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
