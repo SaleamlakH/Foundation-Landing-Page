@@ -82,3 +82,35 @@ a {
     justify-content: center;
     align-items: center;
 }
+
+.info-section {
+    padding: 20px 0;
+    height: 350px;
+}
+
+.info-title {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 72px;
+}
+
+.info-image {
+    width: 150px;
+    height: 150px;
+    border: 3px solid #3882f6;
+    border-radius: 16px;
+    margin: 20px 0px;
+}
+
+.info-text {
+    text-align: center;
+    width: 150px;
+    margin-bottom: 20px;
+}
