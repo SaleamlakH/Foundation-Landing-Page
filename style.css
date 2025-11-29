@@ -166,3 +166,14 @@ a {
     align-items: center;
     gap: 18px;
 }
+
+.footer {
+    color: #F9FAF8;
+    background-color: #1f2937;
+    height: 50px;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
